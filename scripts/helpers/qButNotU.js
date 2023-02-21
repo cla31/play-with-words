@@ -1,8 +1,6 @@
-// https://www.youtube.com/watch?v=RfPR9978bFg
-// 5mn32
 // Trouvez tous les mots qui contiennent un Q mais pas de U
 
-function qButNotU(wordsList) {
+export function qButNotU(wordsList) {
     return wordsList.filter(word => word.includes('q') && !word.includes('u'))
 
 }
