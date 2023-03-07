@@ -4,3 +4,5 @@
 
 Models the functions of the helpers folder to play with words. <br/>
 See the result via the console.log of the browser called in the file handleWords.js
+Schematization of the structure of the code:
+![SCHEMA-CODE](./Schema-code.png)
